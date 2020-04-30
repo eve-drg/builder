@@ -1,19 +1,15 @@
 # LazyBlacksmith
 
-![Logo](https://raw.githubusercontent.com/Kyria/LazyBlacksmith/master/lazyblacksmith/static/img/logo128.png)
+![Logo](https://images.evetech.net/alliances/99004734/logo?size=128)
 
-An EVE Online Industry application for lazy people.
+An EVE Online Industry application
 
 ## About
-LazyBlacksmith is a flask application allowing people to get informations about industry in eveonline.
+Forked from LazyBlacksmith khon.space
 
 ## Features
-* Blueprints
- * Manufacturing informations including components required and installation costs
- * Research data for material and time efficiency (time, cost)
- * Invention informations for components and costs.
- * Reaction informations for components and costs.
-* Get and compare item price over all regions
+ * Changed for alliance members
+ * Optimized
 
 ## Documentation
 
